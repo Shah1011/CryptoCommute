@@ -86,12 +86,7 @@ Crypto Commute is open-source and available under the [MIT License](LICENSE).
 
 ## 🌟 Acknowledgments
 
+- Project partners [Shrithan Devaiah](https://www.linkedin.com/in/shrithan-devaiah-614a8324b/), [Ritu Pandey](https://www.linkedin.com/in/ritu-pandey1407/) & [Tanveer](https://www.linkedin.com/in/sheikh-tanveer-64650a27a/).
 - Special thanks to the Ethereum and Alchemy developer communities for providing invaluable resources and support.
 - Thanks to the creators of React, Chakra UI, Nest.js, and all the open-source libraries used in this project.
 
----
-
-Feel free to explore the platform, contribute, and provide feedback. Together, we aim to create a more transparent, decentralized future for ride-hailing services!
-```
-
-This `README.md` file includes all the key elements needed to introduce the project, explain its core functionality, and guide users through setup and contributions. Feel free to adjust the details to fit your specific preferences or project structure.
